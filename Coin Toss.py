@@ -1,4 +1,5 @@
 import CoinClass as c
+#Importing the name of the file, not the class. 
 
 
 # The main function.
